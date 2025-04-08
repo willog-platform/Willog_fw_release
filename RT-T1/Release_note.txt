@@ -1,4 +1,18 @@
 
+[2024-04-08]
+ * Information
+  - F/W Build: Apr  8 2025, 14:06:22
+  - Board Name : WILLOG_RT-T1
+  - SW Version : v0.1
+  - Board ID : REV_06
+ 
+ * Comments
+  - MAT 전시회 대응 펌웨어.
+  - REV_06 HW Bring-up 완료 및 테스트 펌웨어.
+  
+ * GIT SHA
+  - 857b507c1ccf4e241fa0bef65a62c5d921e809f2
+  
 [2024-02-26]
  * Information
   - F/W Build: Feb 26 2025, 11:53:22
