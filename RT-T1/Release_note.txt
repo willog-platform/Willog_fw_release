@@ -1,4 +1,16 @@
 
+[2024-04-17]
+ * Information
+  - F/W Build: Apr 17 2025, 15:41:52
+  - Board Name : WILLOG_RT-T1
+  - SW Version : v0.1
+  - Board ID : REV_06
+  - Files
+    + 20250417/rt-t1_app_package_20250417_154254.hex
+	+ 20250417/rt-t1_app_package_20250417_154254.zip
+	+ 20250417/rt-t1_full_package_20250417_154254.hex
+	+ 20250417/rt-t1_full_package_20250417_154254.zip
+
 [2024-04-08]
  * Information
   - F/W Build: Apr  8 2025, 14:06:22
